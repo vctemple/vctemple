@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Victor Temple
-- 👀 I’m interested in learn coding and more about the IT universe to improve my knowledgement and develop my carrer!
-- 🌱 I’m currently learning C++ in college and C# as well.
-- 💞️ I’m looking to collaborate on any where I could!
+- 👀 I’m interested in code learning and more about the IT universe to improve my knowledgement and develop my carrer!
+- 🌱 I’m currently learning C++ in college and C# by dotnet plataform as well.
+- 💞️ I’m looking forward to collaborate any where I could!
 - 📫 You can reach me on my LinkedIn page to make contact or email me on: vtemple55@gmail.com
