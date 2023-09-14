@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Victor Temple!
-- 👀 I’m interested to learn about the IT universe to improve my knowledgement and develop my carrer, as a developer and system analyst.
-- 🌱 I’m currently learning c# in college and Python as well.
+- 👋 Hi, I’m Victor!
+- 👀 Always improving my knowledgement in development and system analysis.
+- 🌱 Currently learning and working at most with Javascript but I can handle C# as well.
 - 💞️ I’m looking forward to collaborate any where I could!
-- 📫 You can reach me on my LinkedIn page to make contact or just email me on: vtemple55@gmail.com
+- 📫 You can reach me on my LinkedIn page or just email me on: vtemple55@gmail.com
