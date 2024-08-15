@@ -1,6 +1,6 @@
 # VICTOR TEMPLE :rage3:
 
-:mortar_board: Recently graduated in Analysis and Development Systems by the Federal Institute of São Paulo and already bachelor’s in Business Administration by the Mackenzie Presbyterian University.
+:mortar_board: Recently graduated in Systems Analysis and Development by the Federal Institute of São Paulo and already bachelor’s in Business Administration by the Mackenzie Presbyterian University.
 
 :pencil2: Currently improving my skills on the tech field to switch to the software development area but also learning data engineering to add more hard skills on my pocket.
 
